@@ -10,6 +10,7 @@
     <h1>Testando PHP</h1>
     <?php
     echo "Ola mundo!";
+    echo "teste do teste";
 
 ?>
 </body>
